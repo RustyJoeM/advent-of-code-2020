@@ -36,9 +36,9 @@ path = "src/d04.rs"
 name = "d05"
 path = "src/d05.rs"
 
-# [[bin]]
-# name = "d06"
-# path = "src/d06.rs"
+[[bin]]
+name = "d06"
+path = "src/d06.rs"
 
 # [[bin]]
 # name = "d07"
