@@ -122,4 +122,4 @@ fn solve_part2(data: &[Passport]) -> usize {
 
 generate_main!();
 
-generate_tests!(0, 0);
+generate_tests!(2, 2);
